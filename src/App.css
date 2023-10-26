@@ -1,0 +1,23 @@
+.Board-row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Board-container{
+  margin-top: 50px;
+  display: flex;
+  
+ 
+}
+
+.smallboard{
+  display: block;
+  margin-right: 40px;
+ 
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: cyan;
+}
